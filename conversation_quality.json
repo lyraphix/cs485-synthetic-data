@@ -1,34 +1,190 @@
 {
-    "\nUSER: I want to conduct an orchestra at concert hall.\nASSISTANT: Sure, what kind of music do you want to play?\nUSER: I want to play jazz music.\nASSISTANT: Okay, what kind of jazz music do you want to play?\nUSER: I want to play big band jazz music.\nASSISTANT: Okay, what kind of big band jazz music do you want to play?\nUSER: I want to play swing jazz music.\nASSISTANT: Okay, what kind of swing jazz music do you want to play?\nUSER: I want to play": {
-        "quality": 1,
-        "raw_response": "1"
+    "\nUSER: I want to direct a movie about the moon landing conspiracy.\nASSISTANT: Sure, what do you need help with?\nUSER: I need to find a film studio that will let me make a movie about the moon landing conspiracy.\nASSISTANT: I see. Have you considered independent film studios?\nUSER: Yes, but I'm not sure how to find one that will let me make a movie about the moon landing conspiracy.\nASSISTANT: You could try searching online for independent film studios that specialize in conspiracy-themed movies.\nUSER: Okay, thanks.": {
+        "quality": 2,
+        "raw_response": "2"
     },
-    "\nUSER: Hi, I'm looking for some information on crafting artisanal cheese.\nASSISTANT: Sure, what would you like to know?\nUSER: I'm interested in learning more about the process of making cheese.\nASSISTANT: Absolutely! The process of making cheese involves several steps, including milk preparation, coagulation, cutting, draining, and aging.\nUSER: That's great! I'm particularly interested in the aging process.\nASSISTANT: The aging process is crucial in developing the flavor and texture of the cheese. It can range from a few": {
+    "\nUSER: Hi, I'm a physiotherapist and I'm interested in creating a sustainable garden at Community Plot. Can you help me with some tips on how to do this?\nASSISTANT: Sure, I can help you with that. What kind of plants do you want to grow in your garden?\nUSER: I'm interested in growing vegetables and herbs.\nASSISTANT: Great! Let's start with some basic tips on how to create a sustainable garden. First, choose plants that are native to your area and require less water. This will help conserve water and reduce": {
         "quality": 3,
         "raw_response": "3"
     },
-    "\nUSER: Hi, I'm a Robotics Engineer. I'm interested in learning how to craft artisanal cheese at home. Can you help me?\nASSISTANT: Sure! What type of cheese would you like to make?\nUSER: I'm interested in making a soft, creamy cheese.\nASSISTANT: Great! Let's start by gathering the necessary ingredients. You'll need milk, a culture, and rennet.\nUSER: Okay, I'll get those. What's next?\nASSISTANT: Once you have the ingredients, you'": {
+    "\nUSER: Hi, I'm an astronaut. I'm studying rare birds at the wildlife reserve.\nASSISTANT: Great! What do you want to know?\nUSER: How many species of birds are there at the reserve?\nASSISTANT: There are 100 species of birds at the reserve.\nUSER: Which species are the most endangered?\nASSISTANT: The most endangered species are the California condor and the whooping crane.\nUSER: What are the best times to see these birds?\nASSISTANT: The best times to see": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: Hi, I'm a stunt double for a movie about a painter. I need to learn how to paint a mural at art school.\nASSISTANT: Sure, I can help you with that. What kind of mural do you want to paint?\nUSER: I want to paint a mural of a cityscape.\nASSISTANT: Great! Let's start by sketching out the basic outline of the cityscape.\nUSER: Okay, I'll start sketching.\nASSISTANT: Once you have the outline, you can start adding details like buildings, trees": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: I'm a nurse and I'm attending a robotics competition at the university auditorium.\nASSISTANT: What is your question?\nUSER: I'm looking for the nearest restroom.\nASSISTANT: The nearest restroom is located on the first floor.\nUSER: Thank you.\nASSISTANT: You're welcome.\nUSER: I'm looking for the nearest coffee shop.\nASSISTANT: The nearest coffee shop is located on the second floor.\nUSER: Thank you.\nASSISTANT: You're welcome.\nUSER: I": {
         "quality": 3,
         "raw_response": "3"
     },
-    "\nUSER: I want to organize a community event.\nASSISTANT: Sure, what kind of event are you planning?\nUSER: I want to organize a community event to raise awareness about the importance of voting.\nASSISTANT: Great! What kind of activities do you have in mind?\nUSER: I was thinking of having a panel discussion with local politicians and community leaders.\nASSISTANT: That sounds like a great idea! What other activities do you have planned?\nUSER: I also want to have a voter registration drive and a voter education workshop.\nASSISTANT: That's": {
+    "\nUSER: I want to conduct an orchestra at an open-air festival.\nASSISTANT: Sure, what do you need help with?\nUSER: I need to know how to conduct an orchestra.\nASSISTANT: Okay, let's start with the basics.\nUSER: What are the basics?\nASSISTANT: First, you need to understand the music you're conducting.\nUSER: How do I do that?\nASSISTANT: Listen to the music carefully and study the score.\nUSER: Okay, I'll do that.\nASSISTANT:": {
         "quality": 3,
         "raw_response": "3"
     },
-    "\nUSER: I want to start a startup company.\nASSISTANT: What kind of startup company do you want to start?\nUSER: I want to start a startup company that sells art.\nASSISTANT: What kind of art do you want to sell?\nUSER: I want to sell paintings.\nASSISTANT: What kind of paintings do you want to sell?\nUSER: I want to sell abstract paintings.\nASSISTANT: What kind of abstract paintings do you want to sell?\nUSER: I want to sell abstract paintings that are colorful and have a lot of movement.\n": {
+    "\nUSER: How do I make the dog walk in the forest trail?\nASSISTANT: You can use the 'walk' command to make the dog walk in the forest trail.\nUSER: What are the commands for the dog to walk in the forest trail?\nASSISTANT: The 'walk' command is used to make the dog walk in the forest trail.\nUSER: How do I make the dog walk faster in the forest trail?\nASSISTANT: You can use the 'walk faster' command to make the dog walk faster in the forest trail.\nUSER: How do I make the dog stop": {
         "quality": 3,
         "raw_response": "3"
     },
-    "\nUSER: I'm a surgeon and I'm interested in performing stand-up comedy at an open mic night. I'm feeling a bit insecure about my ability to make people laugh, but I'm determined to give it a try. Can you help me prepare for my set?\nASSISTANT: Sure, let's start by brainstorming some ideas for jokes. What are some topics that you think would be funny to talk about?\nUSER: I'm not sure. I guess I could talk about my experiences as a surgeon, but I'm not sure if that would be": {
-        "quality": 1,
-        "raw_response": "1"
+    "\nUSER: Hi, I'm a Perfumer and I'm looking to run a luxury hotel at a historic castle. Can you help me with some tips on how to make it a success?\nASSISTANT: Sure! What kind of experience are you looking to create for your guests?\nUSER: I want to create a unique and luxurious experience that will make my guests feel like they're staying in a historic castle.\nASSISTANT: Great! What kind of amenities are you planning to offer?\nUSER: I'm thinking of offering a spa, a restaurant, and a bar": {
+        "quality": 3,
+        "raw_response": "3"
     },
-    "\nUSER: Hi, I'm an environmental activist and I'm interested in creating a perfume that is made from natural ingredients found in a botanical garden. Can you help me with this?\nASSISTANT: Sure, let's get started! What type of perfume are you interested in creating?\nUSER: I'm interested in creating a floral perfume.\nASSISTANT: Great! What type of flowers would you like to use?\nUSER: I'm interested in using roses, jasmine, and lavender.\nASSISTANT: Excellent choices!": {
+    "\nUSER: Hi, I'm a physiotherapist and I'm looking to organize a community event at the local park. Can you help me with the planning process?\nASSISTANT: Sure, what kind of event are you planning?\nUSER: I'm thinking of organizing a 5K run to raise awareness for physical activity and health.\nASSISTANT: Great idea! Let's start by identifying a date and time that works for everyone.\nUSER: I was thinking of holding the event on a Saturday morning in June.\nASSISTANT: That sounds like a good time": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm a carpenter and I'm interested in campaigning for a politician. Can you tell me more about the process?\nASSISTANT: Sure, campaigning for a politician involves a lot of work. You'll need to research the candidate's platform, create a campaign strategy, and reach out to potential voters.\nUSER: What kind of skills do I need to have?\nASSISTANT: You'll need to be a good communicator, have strong organizational skills, and be able to work well with others.\nUSER: How do I get started?": {
         "quality": 5,
         "raw_response": "5"
     },
     "\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:\nUSER:\nASSISTANT:": {
         "quality": 1,
         "raw_response": "1"
+    },
+    "\nUSER: I want to build a treehouse in my backyard.\nASSISTANT: Sure, let's get started!\nUSER: I'm a drama teacher, so I need to make sure it's safe and sturdy.\nASSISTANT: No problem! We can make sure it's up to code and meets all safety standards.\nUSER: I also want it to be fun and creative.\nASSISTANT: Absolutely! We can add some fun features like a slide or a swing.\nUSER: I'm not sure where to start.\nASSISTANT:": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm an astrologer and I'm investigating a cybercrime. Can you help me?\nASSISTANT: Sure, what do you need help with?\nUSER: I need to find out who the perpetrator is.\nASSISTANT: Okay, what information do you have so far?\nUSER: I have the IP address of the perpetrator.\nASSISTANT: Great, let's see if we can track down the perpetrator using that IP address.\nUSER: Thank you, I appreciate your help.\nASSISTANT: You're": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: I'm a yoga instructor and I'm planning to conduct an orchestra at an open-air festival. Can you help me with some tips?\nASSISTANT: Sure, what kind of tips are you looking for?\nUSER: I'm looking for tips on how to conduct an orchestra at an open-air festival.\nASSISTANT: Great! Here are some tips:\n1. Make sure you have a clear and strong conducting style.\n2. Practice conducting with a metronome to keep the tempo consistent.\n3. Use hand signals to communicate with the orchestra.": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: I'm a Robotics Engineer. I'm investigating a cybercrime at the Police Station. I'm feeling fearful.\nASSISTANT: I'm an AI assistant. I can help you with your investigation.\nUSER: What are the steps to investigate a cybercrime?\nASSISTANT: The steps to investigate a cybercrime are:\n1. Gather evidence\n2. Identify the suspect\n3. Interview the suspect\n4. Analyze the evidence\n5. Present the case to the court\nUSER: How do I gather evidence": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm a graffiti artist and I'm interested in rebuilding a historic ship at the Maritime Museum. Can you help me with the process?\nASSISTANT: Sure, what kind of ship are you interested in rebuilding?\nUSER: I'm interested in rebuilding the USS Constitution, a frigate that was built in 1797 and is still in service today.\nASSISTANT: Great! The USS Constitution is a National Historic Landmark and is open to the public for tours. To rebuild it, you'll need to gather a team of": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: Hi, I'm an environmental activist and I'm interested in creating a sustainable garden on my rooftop. Can you help me with some tips and resources?\nASSISTANT: Sure, let's get started! First, you'll need to choose the right plants for your climate and soil conditions. You can find information on suitable plants for your area at [website link].\nUSER: Great, thanks! I'm also interested in using sustainable gardening practices like composting and rainwater harvesting. Can you tell me more about those?\nASSISTANT: Absolutely": {
+        "quality": 5,
+        "raw_response": "5"
+    },
+    "\nUSER: Hi, I'm an Archaeologist and I'm interested in developing a mobile app for my college dorm. Can you help me with that?\nASSISTANT: Sure, what kind of app are you looking to develop?\nUSER: I'm looking to create an app that helps students find study groups and connect with other students in their dorm.\nASSISTANT: Great, let's get started. What platform do you want to develop the app for?\nUSER: I'd like to develop the app for both iOS and Android.\nASSISTANT: Okay, let's": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: I want to brew craft beer at home.\nASSISTANT: Sure, let's get started!\nUSER: What equipment do I need?\nASSISTANT: You'll need a fermenter, a bottling bucket, a hydrometer, a thermometer, and a sanitizer.\nUSER: How do I sanitize my equipment?\nASSISTANT: You can use a sanitizing solution or a star sanitizer.\nUSER: What ingredients do I need?\nASSISTANT: You'll need malted barley, hops, yeast": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a meteorologist and I'm planning to lead a yoga retreat at a mountain cabin. I'm feeling fearful about the weather conditions and I need some advice on how to prepare for the retreat.\nASSISTANT: Sure, I can help you with that. What kind of weather conditions are you expecting?\nUSER: I'm expecting rain and snow, and the temperature will be around 30 degrees Fahrenheit.\nASSISTANT: Okay, I see. You should make sure to bring warm clothing and rain gear for yourself and your students. You should also check": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: I'm a Drama Teacher and I'm looking for some advice on how to teach my students about debating a philosophical question.\nASSISTANT: Sure, I can help you with that. What kind of philosophical question are you looking to teach your students about?\nUSER: I'm thinking about teaching them about the question of free will versus determinism.\nASSISTANT: That's a great topic to explore with your students. To start, you could have them read some articles or watch some videos on the topic to get a better understanding of the arguments on both sides.": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a yoga instructor. I'm looking for a place to explore a coral reef.\nASSISTANT: I'm sorry, I don't understand. Can you please rephrase your question?\nUSER: I'm a yoga instructor. I'm looking for a place to explore a coral reef.\nASSISTANT: I'm sorry, I don't understand. Can you please rephrase your question?\nUSER: I'm a yoga instructor. I'm looking for a place to explore a coral reef.\nASSISTANT:": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: I'm a jazz musician. I'm in a bitter mood.\nASSISTANT: I'm sorry to hear that. Would you like to explore a coral reef at the aquarium?\nUSER: Yes, I would love to.\nASSISTANT: Great! Let's go.\nUSER: I'm in a sweet mood now.\nASSISTANT: That's wonderful! Let's explore the coral reef together.\nUSER: What's the best way to explore a coral reef?\nASSISTANT: You can explore a cor": {
+        "quality": 4,
+        "raw_response": "4"
+    },
+    "\nUSER: I need help solving a complex math problem.\nASSISTANT: Sure, what is the problem?\nUSER: I'm trying to find the roots of a cubic equation.\nASSISTANT: Let's start by simplifying the equation.\nUSER: Okay, I'll try that.\nASSISTANT: Once you have a simpler equation, you can use the quadratic formula to find the roots.\nUSER: I'm not sure how to use the quadratic formula.\nASSISTANT: The quadratic formula is a method for solving quadratic equations. It can also": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: Hi, I'm a documentary filmmaker and I'm looking for a vintage car to restore. Can you help me find a garage workshop that specializes in vintage car restoration?\nASSISTANT: Sure, I can help you with that. What type of vintage car are you looking for?\nUSER: I'm interested in a 1960s Ford Mustang.\nASSISTANT: Great, I can help you find a garage workshop that specializes in vintage car restoration.\nUSER: Do you have any recommendations for a garage workshop in my area?\nASSISTANT: Yes": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a speech therapist and I'm writing a fantasy novel. I'm looking for a cafe in a historic town where I can write.\nASSISTANT: Sure! There's a great cafe in the historic town of [town name] that's perfect for writing. It's called [cafe name] and it's located at [address]. They have a cozy atmosphere and delicious coffee.\nUSER: That sounds great! What kind of food do they serve?\nASSISTANT: They have a variety of pastries, sandwiches, and salads": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a grape farmer and I'm looking to lead a yoga retreat at a mountain cabin.\nASSISTANT: Sure, I can help you with that. What kind of yoga retreat are you looking to lead?\nUSER: I'm looking to lead a detached yoga retreat.\nASSISTANT: Great, I can help you find a mountain cabin that's perfect for your retreat. What kind of amenities are you looking for?\nUSER: I'm looking for a cabin with a hot tub and a sauna.\nASSISTANT: I've found a few": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm a Documentary Filmmaker and I'm interested in developing a mobile app for my film. Can you help me with the process?\nASSISTANT: Sure! What kind of app are you looking to develop?\nUSER: I'm looking to create an app that allows users to watch my film on their mobile devices.\nASSISTANT: Great! Let's start by discussing the features you want to include in the app.\nUSER: I want the app to have a user-friendly interface, with options to watch the film in different languages and with subtitles": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I am a surgeon and I want to run a luxury hotel at a historic castle.\nASSISTANT: Sure, I can help you with that. What kind of hotel do you want to run?\nUSER: I want to run a luxury hotel with a romantic theme.\nASSISTANT: Great, I can help you with that. What kind of amenities do you want to offer?\nUSER: I want to offer a spa, a restaurant, and a bar.\nASSISTANT: Great, I can help you with that. What kind of rooms do you want to offer?\n": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm a Storm Chaser. I'm looking for a place to create a sustainable garden.\nASSISTANT: Sure, I can help you. What kind of garden are you looking for?\nUSER: I'm interested in creating a garden that is both beautiful and environmentally friendly.\nASSISTANT: Great! I recommend Community Plot for that. It's a community garden that promotes sustainable gardening practices.\nUSER: That sounds great. How do I get started?\nASSISTANT: You can visit their website at communityplot.org to learn more about their": {
+        "quality": 5,
+        "raw_response": "5"
+    },
+    "\nUSER: Hi, I'm a fashion designer and I want to develop a mobile app for my brand. Can you help me with this?\nASSISTANT: Sure, what kind of app are you looking to develop?\nUSER: I want to create an app that allows users to browse and purchase my clothing designs.\nASSISTANT: Great, let's start by discussing the features you want to include in your app.\nUSER: I want the app to have a user-friendly interface, a search function, and a shopping cart feature.\nASSISTANT: That sounds like a great start.": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a magician and I want to perform stand-up comedy at a comedy club.\nASSISTANT: Sure, what do you need help with?\nUSER: I'm not sure how to start my set.\nASSISTANT: You could start with a joke or a story that relates to your magic act.\nUSER: I'm not sure how to end my set.\nASSISTANT: You could end with a big reveal or a final trick that leaves the audience in awe.\nUSER: I'm not sure how to handle hecklers.\nASS": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: Hi, I'm an astronaut and I'm interested in launching a startup company at a co-working space. Can you help me with the process?\nASSISTANT: Sure, what kind of startup are you interested in?\nUSER: I'm interested in starting a space exploration company.\nASSISTANT: Great! What are your goals for the company?\nUSER: I want to explore new planets and discover new life forms.\nASSISTANT: That's an ambitious goal. What resources do you have available?\nUSER: I have some funding and a team of": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm a Perfumer. I'm starting off in a 'Aggressive' tone. I'm racing in a Rally at 'Virtual Circuit'.\nASSISTANT: I'm an AI assistant. I can help you with your questions about 'Racing in a Rally' at 'Virtual Circuit'.\nUSER: What is the best strategy for winning a Rally race?\nASSISTANT: The best strategy for winning a Rally race is to drive fast and take risks.\nUSER: What are some common mistakes that Perfumers make in": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm an Art Historian and I'm interested in learning more about artisanal cheese. Can you tell me about the history of artisanal cheese making?\nASSISTANT: Sure! Artisanal cheese making has a long and rich history. It dates back to ancient times, when people first began to make cheese as a way to preserve milk. Over the centuries, artisanal cheese making has evolved and become a highly skilled craft. Today, artisanal cheese makers use traditional methods and techniques to create unique and delicious cheeses.\nUSER: That's fascinating!": {
+        "quality": 5,
+        "raw_response": "5"
+    },
+    "\nUSER: Hi, I'm a wildlife conservationist and I'm planning to film a documentary about the wildlife in a busy city. Can you help me with some tips on how to film in a busy city?\nASSISTANT: Sure, I can help you with that. What kind of wildlife are you planning to film?\nUSER: I'm planning to film birds, squirrels, and other small animals that live in the city.\nASSISTANT: Great, those are some great subjects to film. What kind of equipment do you have?\nUSER: I have a camera and a trip": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a chef and I'm at a campsite. I need to do the dishes.\nASSISTANT: I'm sorry, I don't understand. Could you please rephrase your question?\nUSER: I need to do the dishes at the campsite.\nASSISTANT: Sure, I can help you with that. Do you have any dish soap or detergent?\nUSER: Yes, I have some dish soap.\nASSISTANT: Great! Let's get started. First, fill a sink or basin with warm water and add a small amount of dish": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: Hi, I'm looking for a magic trick to impress my friends.\nASSISTANT: Sure, what kind of magic trick are you interested in?\nUSER: I'm looking for a simple trick that I can do with a deck of cards.\nASSISTANT: I have a great trick that you can do with a deck of cards. It's called the \"Vanishing Card Trick\".\nUSER: How does it work?\nASSISTANT: The trick involves making a card disappear and then reappear in a different location.\nUSER: Sounds cool! Can you show": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I'm a startup founder and I'm planning to attend a robotics competition. I'm feeling a bit melancholic about it. Can you help me with some tips on how to make the most of the experience?\nASSISTANT: Sure, I'd be happy to help. What are your specific concerns?\nUSER: I'm worried that I won't be able to compete with the other teams. I'm not sure if my robot is good enough.\nASSISTANT: Don't worry, everyone starts somewhere. Focus on learning and improving your skills. You'": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm an investment banker and I'm interested in designing a video game for a gaming convention. Can you help me with the design process?\nASSISTANT: Sure, what kind of game are you interested in designing?\nUSER: I'm interested in designing a first-person shooter game.\nASSISTANT: Great! What platform do you want to design the game for?\nUSER: I want to design the game for PC and consoles.\nASSISTANT: Okay, let's start with the PC version. What kind of graphics do you want to use": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: I want to participate in a chess tournament at the community hall.\nASSISTANT: Sure, what time would you like to start?\nUSER: I'd like to start at 10 am.\nASSISTANT: Great, I'll make sure the hall is ready for you.\nUSER: Thanks, I'm looking forward to it.\nASSISTANT: You're welcome. See you then!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n": {
+        "quality": 5,
+        "raw_response": "5"
+    },
+    "\nUSER: I'm afraid of heights. Can you help me overcome my fear of heights?\nASSISTANT: Sure, I can help you. What's your name?\nUSER: My name is John.\nASSISTANT: Hi John, I'm here to help you overcome your fear of heights. Do you have any specific fears related to heights?\nUSER: Yes, I'm afraid of falling from a great height.\nASSISTANT: Okay, let's work on that. What are some things that make you feel safe when you're at a great height": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: I'm a video game developer and I'm working on a game where the player controls a sailboat at sea. I'm having trouble with the navigation system and I need some help.\nASSISTANT: Sure, what kind of help do you need?\nUSER: I need to know how to make the sailboat move in a specific direction and avoid obstacles.\nASSISTANT: Okay, let's start with the basics. You'll need to use the wind direction and speed to calculate the boat's velocity. Then, you can use that velocity to move the boat in": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: I'm a geneticist and I'm campaigning for a politician at University Campus. I'm feeling envious.\nASSISTANT: I'm sorry to hear that. What is the issue you're facing?\nUSER: I'm having trouble getting people to listen to my message.\nASSISTANT: I understand. Have you tried using social media to reach a wider audience?\nUSER: Yes, but it's not working.\nASSISTANT: Have you considered using a more personal approach, such as door-to-door campaigning?\nUSER: I": {
+        "quality": 1,
+        "raw_response": "1"
+    },
+    "\nUSER: I need help solving an escape room.\nASSISTANT: Sure, what kind of escape room are you trying to solve?\nUSER: It's an online challenge.\nASSISTANT: Okay, can you tell me more about the challenge?\nUSER: It's a virtual escape room with a time limit.\nASSISTANT: Got it. What kind of clues are you looking for?\nUSER: I need help finding the hidden clues.\nASSISTANT: I see. Can you give me an example of a clue you're looking for?\nUSER: I need": {
+        "quality": 2,
+        "raw_response": "2"
+    },
+    "\nUSER: I am a cinematographer and I want to start a startup company.\nASSISTANT: Great! What kind of startup company do you want to start?\nUSER: I want to start a company that provides cinematography services for businesses.\nASSISTANT: That's a great idea! What kind of services do you plan to offer?\nUSER: I plan to offer a range of services, including corporate videos, event coverage, and product photography.\nASSISTANT: That sounds like a great business model. What kind of resources do you need to get started?\nUSER: I need": {
+        "quality": 3,
+        "raw_response": "3"
+    },
+    "\nUSER: Hi, I'm a Robotics Engineer. I'm interested in playing in a Jazz Band at the Jazz Festival.\nASSISTANT: Sure, what kind of Jazz Band are you interested in?\nUSER: I'm interested in playing in a Jazz Band that plays traditional Jazz.\nASSISTANT: Great! What kind of Jazz Festival are you interested in?\nUSER: I'm interested in playing in a Jazz Festival that is held in a large city.\nASSISTANT: Got it. What kind of Jazz Festival are you interested in?\nUSER: I'm interested": {
+        "quality": 2,
+        "raw_response": "2"
     }
 }

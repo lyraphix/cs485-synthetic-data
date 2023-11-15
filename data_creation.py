@@ -12,8 +12,8 @@ MAX_NEW_TOKENS = 128
 REPLICATE_API_TOKEN = 'r8_2exQ6CNhSRtslvEwof1vEMwXbx8RLr53VlRmP'
 
 # YOU CAN CHANGE THESE PARAMETERS
-NUM_CONVERSATIONS = 10
-QUALITY_THRESHOLD = 3
+NUM_CONVERSATIONS = 50
+QUALITY_THRESHOLD = 1
 
 
 # Initialize logging
@@ -41,7 +41,7 @@ def run_mistral(prompt, max_new_tokens=MAX_NEW_TOKENS):
         output = replicate.run(
             MODEL_NAME,
             input={"prompt": prompt,
-                   "max_new_tokens": max_new_tokens, "temperature": 0.04}
+                   "max_new_tokens": max_new_tokens, "temperature": 0.16}
         )
         # HINT: See if you want to change this to keep only the first output. What are the benefits / drawbacks?
         return "".join(list(output))
@@ -83,7 +83,7 @@ def check_conversation_quality(conversation):
 
 def generate_conversation():
     # Randomly select elements from each list
-    selected_partner = random.choice(partners)[0]
+    selected_partner = random.choice(random.choice(partners))
     selected_tone = random.choice(tones)
     selected_scenario, locations = random.choice(scenarios)
     location = random.choice(locations)
@@ -93,9 +93,9 @@ def generate_conversation():
                            f"The user is a {selected_partner}, starting off in a '{selected_tone[0]}' tone and shifting to a '{selected_tone[1]}' tone. "
                            "The conversation should start with a relevant, specific question from the user for assistance from the assistant, "
                            "and follow the format of alternating messages between USER and ASSISTANT. "
-                           "The conversation should follow this format:\n"
-                           "USER: [message]\n"
-                           "ASSISTANT: [message]\n"
+                           "The conversation is output in this format\n"
+                           "USER: [user's message]\n"
+                           "ASSISTANT: [assistant's message]\n"
                            "The conversation can have 1-6 turns. Return the conversation below. Use English.\n"
                            "CONVERSATION:")
 
@@ -135,7 +135,7 @@ def main():
 
     # Generate conversations
     conversations = []
-    while len(conversations) < NUM_CONVERSATIONS:
+    while len(conversations) < NUM_CONVERSATIONS + 1:
         conversation = generate_conversation()
         if check_conversation_quality(conversation) >= QUALITY_THRESHOLD:
             conversations.append(conversation)
